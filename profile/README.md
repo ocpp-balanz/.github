@@ -5,7 +5,7 @@ balanz is an OpenSource initiative focused on providing smart charging capabilit
 balanz may be deployed either as an OCPP Local Controller (LC) taking care of Smart Charging functions while delegating remaining
 functions to a Central System (CS), or as a simplistic full CS. balanz supports OCPP version 1.6J.
 
-Also related is an OCPP simulator, ocppsim.
+Apart from the main backend part, balanz, additional repositories will host a simple OCPP simulator, ocppsim, a UI, etc.
 
 balanz is developed and maintained by Jens Vedel Markussen, jens.markussen@gmail.com.
 
