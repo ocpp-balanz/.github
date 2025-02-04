@@ -14,3 +14,7 @@ balanz is developed and maintained by Jens Vedel Markussen, jens.markussen@gmail
 **January 2025**
 balanz and ocppsim are functionally complete at the level planned for the first release. Further testing and documentation is 
 outstanding before the repositories will be made public.
+
+**February 2025**
+balanz published. Docs are complete in first version while (automated) testing is lacking. Next steps are automated testing
+and ocppsim cleanup before publishing.
