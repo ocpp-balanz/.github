@@ -16,5 +16,4 @@ balanz and ocppsim are functionally complete at the level planned for the first 
 outstanding before the repositories will be made public.
 
 **February 2025**
-balanz published. Docs are complete in first version while (automated) testing is lacking. Next steps are automated testing
-and ocppsim cleanup before publishing.
+balanz published. Docs are complete in first version while (automated) testing is lacking. Next steps are automated testing.
