@@ -17,3 +17,7 @@ outstanding before the repositories will be made public.
 
 **February 2025**
 balanz published. Docs are complete in first version while (automated) testing is lacking. Next steps are automated testing.
+
+**March 2025**
+balanz maturing, though still officially alpha. Initial rough version of UI made public.
+
