@@ -21,3 +21,6 @@ balanz published. Docs are complete in first version while (automated) testing i
 **March 2025**
 balanz maturing, though still officially alpha. Initial rough version of UI made public.
 
+**19th March 2025**
+v1 of balanz/balanz-ui "declared". Both are now reasonably complete and mature, ready for people to try it.
+
