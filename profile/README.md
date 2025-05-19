@@ -24,3 +24,6 @@ balanz maturing, though still officially alpha. Initial rough version of UI made
 **19th March 2025**
 v1 of balanz/balanz-ui "declared". Both are now reasonably complete and mature, ready for people to try it.
 
+**May 2025**
+Multiple enhancements, primarily focused on balanz UI. Furthermore, ocpp-2w-proxy added.
+
